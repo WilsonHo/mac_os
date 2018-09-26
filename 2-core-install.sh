@@ -9,10 +9,11 @@ CORE=(
 	telegram
 	messenger
     google-chrome
-    google-drive
+   
     dropbox
     flux
     vlc
+    google-drive
     utorrent
 )
 
